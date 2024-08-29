@@ -1,0 +1,21 @@
+.text-black{color:black;}
+
+.navbar {
+    background-color: rgb(35, 36, 41) !important; /* Change navbar background color */
+  }
+  .navbar .navbar-nav .nav-link {
+    color: white !important; /* Change navbar text color to white */
+    font-size: 1.3em !important;
+  }
+
+  body { font-family: Arial, sans-serif; }
+  .container { width: 80%; margin: auto; }
+  header { background: #333; color: white; padding: 10px 0; text-align: center; }
+  .content { margin: 20px 0; }
+  .team-member { margin-bottom: 20px; }
+  .team-photo { width: 100px; height: 100px; border-radius: 50%; }
+  .team-info { margin-left: 120px; }
+  .team-name { font-size: 20px; font-weight: bold; }
+  .team-role { font-size: 18px; color: #555; }
+
+
